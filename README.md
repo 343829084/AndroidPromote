@@ -12,7 +12,7 @@ Android提高班
 ### 工具篇
 
 ### 架构篇
-* 视频：
+* 视频
 http://v.qq.com/vplus/7452a0fe188310567afa2888d66bd01c
 
 * PPT全集
